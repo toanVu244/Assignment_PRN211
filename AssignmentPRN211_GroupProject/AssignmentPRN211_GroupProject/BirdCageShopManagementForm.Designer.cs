@@ -146,6 +146,7 @@
             Search.TabIndex = 1;
             Search.Text = "Search";
             Search.UseVisualStyleBackColor = true;
+            Search.Click += Search_Click;
             // 
             // txt_search
             // 

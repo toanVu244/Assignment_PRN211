@@ -113,5 +113,28 @@ namespace BirdCageShopGUI
                 throw new Exception(ex.Message);
             }
         }
+
+        private void Search_Click(object sender, EventArgs e)
+        {
+            listViewShow.Items.Clear();
+
+            //
+            String key = txt_search.Text;
+            List<Product> products = productService.SearchProduct(key);
+
+            listViewShow.LargeImageList = imageListLarge;
+            int index = 0;
+
+            foreach (var item in products)
+            {
+                ListViewItem itemView = new ListViewItem();
+                itemView.Text = (item.ProductName + "-" + (item.Price).ToString());
+                itemView.Name = item.ProductId;
+                imageListLarge.Images.Add(new Bitmap(Application.StartupPath + "BirdCageResources\\" + item.ProductId + ".jpg"));
+                itemView.ImageIndex = index;
+                listViewShow.Items.Add(itemView);
+                index += 1;
+            }
+        }
     }
 }
