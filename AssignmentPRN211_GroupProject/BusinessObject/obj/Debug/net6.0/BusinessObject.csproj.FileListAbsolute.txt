@@ -1,0 +1,14 @@
+C:\Users\ToanVu\source\repos\AssignmentPRN211_GroupProject\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+C:\Users\ToanVu\source\repos\AssignmentPRN211_GroupProject\BusinessObject\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
+C:\Users\ToanVu\source\repos\AssignmentPRN211_GroupProject\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\ToanVu\source\repos\AssignmentPRN211_GroupProject\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\ToanVu\source\repos\AssignmentPRN211_GroupProject\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\ToanVu\source\repos\AssignmentPRN211_GroupProject\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ToanVu\source\repos\AssignmentPRN211_GroupProject\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Users\ToanVu\source\repos\AssignmentPRN211_GroupProject\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+C:\Users\ToanVu\source\repos\AssignmentPRN211_GroupProject\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\ToanVu\source\repos\AssignmentPRN211_GroupProject\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+C:\Users\ToanVu\source\repos\AssignmentPRN211_GroupProject\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+C:\Users\ToanVu\source\repos\AssignmentPRN211_GroupProject\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+C:\Users\ToanVu\source\repos\AssignmentPRN211_GroupProject\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
+C:\Users\ToanVu\source\repos\AssignmentPRN211_GroupProject\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll

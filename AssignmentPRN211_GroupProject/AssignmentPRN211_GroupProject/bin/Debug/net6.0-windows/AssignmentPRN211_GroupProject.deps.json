@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AssignmentPRN211_GroupProject/1.0.0": {
+        "runtime": {
+          "AssignmentPRN211_GroupProject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AssignmentPRN211_GroupProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
